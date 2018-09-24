@@ -1,0 +1,19 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Widgets">
+	<OpenFiles
+		CID = "1"
+		LastActive = "2">
+		<File
+			FileID = "0A0A373C-44D7-4F6C-B9EC21F58DA535FA"
+			RootPath = "$Container"
+			RelativePathname = "FrameWin.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "9297EB7B-B826-460D-9583C3978F74B7C6"
+			RootPath = "$Container"
+			RelativePathname = "运行平台主界面.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

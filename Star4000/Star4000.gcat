@@ -1,0 +1,17 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "0A0A373C-44D7-4F6C-B9EC21F58DA535FA"
+			RelativePath = "FrameWin.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "FrameWin.gui"/>
+		<FileInfo
+			ID = "9297EB7B-B826-460D-9583C3978F74B7C6"
+			RelativePath = "运行平台主界面.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "运行平台主界面.gui"/>
+	</Files>
+</Catalogue>
